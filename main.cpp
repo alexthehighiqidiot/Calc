@@ -8,8 +8,8 @@ int main() {
     std::cin >> f;
     std::cout << "type another number" << std::endl
     std::cin >> b;
-    x = double(a)
-    y = double(b)
+    double x = double(a)
+    double y = double(b)
     if (f == "+") {
         std::cout << x + y << std::endl;
     }
